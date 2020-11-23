@@ -1,10 +1,10 @@
 # Site settings
-title: Wenhu Chen's Home Page
-email: wenhuchen@cs.ucsb.edu
+title: Naveen Karunanayake's Home Page
+email: naveenharshitha95@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://wenhuchen.github.io" # the base hostname & protocol for your site
-github: wenhuchen
+url: "https://NaveenHK.github.io" # the base hostname & protocol for your site
+github: NaveenHK
 googlescholar: https://scholar.google.com/citations?user=U8ShbhUAAAAJ&hl=en
 exclude:
   - "*.sublime-project"

@@ -46,6 +46,9 @@
     border-radius: 4px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    max-width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .publication-block:hover {
@@ -61,8 +64,8 @@
 }
 
 .publication-block ul {
-    list-style: none;
-    padding: 0;
+    list-style: disc;
+    padding: 20px;
     text-align: left;
     color: #74808a;
 }

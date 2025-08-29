@@ -98,3 +98,16 @@
         font-size: 1.25em;
     }
 }
+
+.edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.edu-header h3 {
+    margin: 0;
+}
+.edu-location {
+    font-size: 0.9em;
+    color: #666;
+}
